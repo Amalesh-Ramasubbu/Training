@@ -1,1 +1,2 @@
-text2 added for feature-text1 branch
+text2 added for feature-text1 branch.
+updated this file to test conflict
